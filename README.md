@@ -27,8 +27,16 @@ applying special meaning to curly braces.
 
 ### CB SERVER
 
-CB requests will pass thru my own server at jlopez.mx.Check w/me on port spec
+- CB requests will pass thru my own server at jlopez.mx.Check w/me on port spec
 .
-UDP is supported
+- UDP is supported
 
-MSIS Active Directory Look Up to sycn users
+- MSIS Active Directory Look Up to sycn users
+
+### OUTBOUND QUOTA
+
+- As defined in \AS\MS\User\Tree\Data\ No bridged to modify quota from my server.
+
+### INBOUND QUOTA
+
+- No limit. Spec on port | FIrewall enabled for abuse. Ban 10 years.
