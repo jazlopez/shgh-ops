@@ -25,4 +25,10 @@ Note that in some shells, for example PowerShell, you may need to enclose
 any value that contains "{...}" in quotes to prevent the shell from
 applying special meaning to curly braces.
 
-### SIGNING IN REQUESTS
+### CB SERVER
+
+CB requests will pass thru my own server at jlopez.mx.Check w/me on port spec
+.
+UDP is supported
+
+MSIS Active Directory Look Up to sycn users
