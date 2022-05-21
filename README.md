@@ -17,6 +17,12 @@ No AWS / Other Cloud Provider
 Can be container on a 2gb RAm minimum VM
 
 
+### SUPERVISORD ENABLED
+
+No implementation of any scheduled tasks for the solution stick to daemon control w/supervisord. Verify on python reqs. Re-install if target server is lower version  than anticipated.
+
+- RPM should be straight follow to install. Use fedora/rhel might be recommended..
+
 
 ### CB SERVER
 
